@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Visual Studio Code</title>
+  <desc id="desc">Ilustracion de una ventana de codigo con tonos azules.</desc>
+  <rect width="640" height="400" fill="#dbeff3"/>
+  <rect x="78" y="58" width="484" height="284" rx="18" fill="#17202a"/>
+  <rect x="78" y="58" width="484" height="46" rx="18" fill="#477fa8"/>
+  <circle cx="112" cy="81" r="8" fill="#db6b57"/>
+  <circle cx="138" cy="81" r="8" fill="#f1c75b"/>
+  <circle cx="164" cy="81" r="8" fill="#2f8f6b"/>
+  <rect x="112" y="134" width="176" height="14" rx="7" fill="#8fc3d4"/>
+  <rect x="112" y="170" width="318" height="14" rx="7" fill="#f6f8f4"/>
+  <rect x="112" y="206" width="248" height="14" rx="7" fill="#8fc3d4"/>
+  <rect x="112" y="242" width="358" height="14" rx="7" fill="#f1c75b"/>
+  <path d="M480 128 370 200l110 72 52-30V158z" fill="#2f8f6b"/>
+  <path d="M480 128v144l58 34V94z" fill="#477fa8"/>
+</svg>
